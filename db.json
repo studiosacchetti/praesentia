@@ -1,7 +1,7 @@
 {
   "user": [
     { "id": 1, "name": "Luca rossi", "rfid": "123"  },
-    { "id": 2, "name": "Pranco Bianchi", "rfid": "123"  },
-    { "id": 3, "name": "Pippo poco", "rfid": "123" }
+    { "id": 2, "name": "Pranco Bianchi", "rfid": "1234"  },
+    { "id": 3, "name": "Pippo poco", "rfid": "0482862A4C5880" }
   ]
 }
